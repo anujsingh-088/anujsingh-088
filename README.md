@@ -1,5 +1,5 @@
 
-Hi👋 I m <b>Anuj Singh</b>, a Software Development Engineer working at <b>Internshala</b>. I pursued by B.Tech from <b>MAIT, New Delhi</b>. My tech stack is <b>Javascript | ReactJS | Nodejs | PHP </b>. Looking forward to work on Open Source Projects.
+Hi👋 I m <b>Anuj Singh</b>, a Software Development Engineer working at <b>Internshala</b>. I pursued by B.Tech from <b>MAIT, New Delhi</b>. My tech stack is <b>Javascript | ReactJS | Nodejs | PHP </b>. Looking forward to working on Open Source Projects.
 
 Connect with me at<br/>
 <a href="https://www.linkedin.com/in/anuj-singh-3a71b3146/">LinkedIn</a> 
